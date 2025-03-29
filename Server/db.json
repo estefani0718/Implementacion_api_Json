@@ -1,0 +1,73 @@
+{
+    "animals": [
+      { 
+       "id": 1, 
+       "name": "Rocky",
+       "species": "perro",
+        "breed": "Labrador",
+        "age": 3 
+    },
+    { "id": 2, 
+      "name": "Bella",
+     "species": "perro",
+      "breed": "Bulldog Francés",
+       "age": 2
+    },
+    { "id": 3,
+     "name": "Milo", 
+     "species": "gato", 
+     "breed": "Maine Coon",
+      "age": 4 
+    },
+    {
+        "id": 4, 
+        "name": "Luna",
+        "species": "gato",
+        "breed": "Siames", 
+        "age": 1 
+    }
+    ],
+
+    "owners": [
+      { "id": 1, 
+      "name": "Carlos",
+       "phone": "123456789"
+     },
+     { "id": 2, 
+       "name": "Ana", 
+       "phone": "987654321" 
+     },
+     { 
+        "id": 3, 
+        "name": "Luis", 
+        "phone": "456789123"
+     },
+     { 
+        "id": 4, 
+        "name": "Monica", 
+        "phone": "577868699"
+     }
+    ],
+    "favorite_foods": [
+
+    { "animalId": 1 ,
+       "id": 2,
+        "name": "pork meat"
+    },
+    { "animalId": 2 ,
+       "id": 1,
+        "name": "meat and chicken"
+    },
+    {
+        "animalId": 3,
+        "id": 3,
+        "name": "Salmon"
+     },
+    { "animalId": 4,
+      "id": 4,
+       "name": "Mirringo"
+    }
+
+    ]
+}
+  

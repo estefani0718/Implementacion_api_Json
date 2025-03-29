@@ -1,0 +1,9 @@
+{
+    "/animals/*": "/animales",
+    "/owners/*": "/Dueños",
+    "/favorite_foods/*": "/comida_favorita",
+
+    "/animals/:id": "/animales/:id",
+    "/owners/:id ":"/owners/:id",
+    "/favorite_foods": "/comida_favorita/:id"
+  }
